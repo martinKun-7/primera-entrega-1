@@ -1,0 +1,23 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Desafio backend coderHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "M",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
